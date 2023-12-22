@@ -7,7 +7,6 @@ Soy un desarrollador de software con 3 años de experiencia en el mundo de la pr
 - 🎓 Graduado en Desarrollo de aplicaciones web y Administración de sistemas informáticos en red.
 - 💼 Trabajo como programador Java desde el año 2020.
 - 📱 Interesado en el mundo de la programación Android.
-- 📚 Siempre en constante aprendizaje y dispuesto a asumir nuevos desafíos.
 
 ## Contacto
 
